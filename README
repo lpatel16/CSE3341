@@ -1,0 +1,9 @@
+Author: Ryan Gibson
+Class: CSE3341 - Principles of Programming Languages
+Description:
+Tokenizes, parses, prints and executes a program in Core Language. 
+
+Procedure to Run: Import archive to a new project.  Place the program and
+input files into the run configuration arguments, placing program file first.
+
+Then run.
