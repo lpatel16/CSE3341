@@ -1,0 +1,15 @@
+program begin end   
+int
+if
+then else
+while
+loop
+read  
+write;,= 
+
+!
+[]&&||()+-*!===<><=>=42 KEYWORDS25  
+
+
+   
+
